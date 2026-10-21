@@ -1,4 +1,4 @@
-export const DEMO_URL = process.env.NEXT_PUBLIC_DEMO_URL || 'https://YOUR-FRAUD-DASHBOARD.vercel.app'
+export const DEMO_URL = process.env.NEXT_PUBLIC_DEMO_URL || 'https://fdmdash.vercel.app'
 export const RESUME_URL = process.env.NEXT_PUBLIC_RESUME_URL || '/resume.pdf'
 export const EMAIL = 'ggpranavv@gmail.com'
 export const PHONE = { href: 'tel:+918169769335', label: '+91 81697 69335' }
