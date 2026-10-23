@@ -6,7 +6,7 @@ export const EXPERIENCE = [
     'Deployed the model as a FastAPI service and wrote a multi-week automated test suite covering robustness and stress cases.',
     'Designed canonical multi-tenant data schemas and a five-stage loan journey pipeline.' ] },
   { when: 'Oct 2024 to Jan 2025', title: 'PLC Intern', org: 'Consulta Technologies, CBD Belapur', text: 'Programmed Siemens S7-1200 and S7-1500 PLCs and built HMI dashboards for industrial automation projects, working with real-time sensor and control data.' },
-  { when: 'Apr 2022 to May 2023', title: 'Co-Founder & Product Lead', org: 'Syneidisi Tech, Nerul', text: 'Co-founded an early-stage startup and took a product from concept to deployment, owning product strategy, UX and frontend development.' },
+  { when: 'Apr 2022 to May 2023', title: 'Product Lead', org: 'Syneidisi Tech, Nerul', text: 'Co-founded an early-stage startup and took a product from concept to deployment, owning product strategy, UX and frontend development.' },
 ]
 export const EDUCATION = [
   { when: '2023 to 2025', title: 'M.Tech, Robotics & Automation', org: 'K.J. Somaiya School of Engineering', text: 'CGPA 8.33' },
